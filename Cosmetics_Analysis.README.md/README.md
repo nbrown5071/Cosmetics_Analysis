@@ -6,8 +6,6 @@ This project is from the TripleTen February 2025 Business Intelligence Analyst C
 
 The Tableau Link can be found <a href='https://public.tableau.com/views/Cosmetics4-2_17409405036550/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><u>here</u>.</a>
 
-The Google Docs report can be found <a href=''><u>here</u>.</a>
-
 The Google Docs Outline can be found <a href='https://docs.google.com/document/d/1hvFoZ9LknT2g1xvRrdV_SPvMN0SX-gJLUCD2980l3NQ/edit?usp=sharing'><u>here</u>.</a>
 
 ### Cosmetics Analysis File Table of Contents
@@ -42,7 +40,7 @@ We reviewed that dataset in excel. We looked for problems with the dataset such 
 ### Findings
 •	There are 1,472 products among 117 brands that are applicable to a variety of skin type combinations  
 
-•	The average price range for cosmetics products is $10 - $184. Individual product prices range from $3 to $370. We explored the High End price and Low End average price of 10 brands (5 per high/ low) to determine which if higher price indicates greater effectiveness. 
+•	The average price range for cosmetics products is $10 - $184. Individual product prices range from $3 to $370. We explored the High End price and Low End average price of 10 brands (5 per high/ low) to determine if a higher price indicates greater effectiveness. 
 
 •	We found 61 products among 8 brands that are applicable to all skin types. [Product List Cosmetics Analysis.png](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Product%20List%20Cosmetics%20Analysis.png)
 
