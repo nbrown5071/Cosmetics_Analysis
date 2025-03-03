@@ -11,10 +11,13 @@ The Google Docs Outline can be found <a href='https://docs.google.com/document/d
 ### Cosmetics Analysis File Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Cover Cosmetics Analysis.png](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cover%20Cosmetics%20Analysis.png) | A .png visualization from project | 
-| 2 | [Product List Cosmetics Analysis.png](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Product%20List%20Cosmetics%20Analysis.png) | A .png visualization from project showing a unique product list meeting our specified criteria  |
-| 3 | [README.md](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/README.md) | A file with relevant information about the project, current view.  | 
-| 4 | [cosmetics.csv](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/cosmetics.csv) | A .csv file containing the data used for the project | 
+| 1 | [Cosmetics Analysis Formal Report](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cosmetics%20Analysis%20Formal%20Report.docx) | A word document file containing a formal report for this project with table of contents | 
+| 2 | [Cosmetics Analysis-2 (1).twbx](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cosmetics%20Analysis-2%20(1).twbx) | The Tableau project workbook containing the story, worksheets, and dashboards | 
+| 3 | [Cover Cosmetics Analysis.png](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cover%20Cosmetics%20Analysis.png) | A .png visualization from project | 
+| 4 | [Product List Cosmetics Analysis.png](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Product%20List%20Cosmetics%20Analysis.png) | A .png visualization from project showing a unique product list meeting our specified criteria  |
+| 5 | [README.md](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/README.md) | A file with relevant information about the project, current view.  | 
+| 6 | [Story 1.pdf](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Story%201.pdf) | A .pdf file containing the Tableau story Visualizations | 
+| 7 | [cosmetics.csv](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/cosmetics.csv) | A .csv file containing the data used for the project | 
 
 
 
