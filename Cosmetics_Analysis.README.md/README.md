@@ -11,7 +11,7 @@ The Google Docs Outline can be found <a href='https://docs.google.com/document/d
 ### Cosmetics Analysis File Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Cosmetics Analysis Formal Report](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cosmetics%20Analysis%20Formal%20Report.docx) | A word document file containing a formal report for this project with table of contents | 
+| 1 | [Cosmetics Analysis Formal Report](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cosmetics%20Analysis%20Formal%20Report.docx) | A word document file containing a formal report for this project with table of contents. | 
 | 2 | [Cosmetics Analysis-2 (1).twbx](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cosmetics%20Analysis-2%20(1).twbx) | The Tableau project workbook containing the story, worksheets, and dashboards | 
 | 3 | [Cover Cosmetics Analysis.png](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cover%20Cosmetics%20Analysis.png) | A .png visualization from project | 
 | 4 | [Product List Cosmetics Analysis.png](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Product%20List%20Cosmetics%20Analysis.png) | A .png visualization from project showing a unique product list meeting our specified criteria  |
