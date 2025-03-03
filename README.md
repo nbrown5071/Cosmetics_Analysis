@@ -6,7 +6,7 @@ This project is from the TripleTen February 2025 Business Intelligence Analyst C
 
 The Tableau Link can be found <a href='https://public.tableau.com/views/CosmeticsAnalysis-2_17410359239270/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><u>here</u>.</a>
 
-The Google Docs Outline can be found <a href='https://docs.google.com/document/d/1lz2R22FZm35XQMvPO5pAfL_5HnsvCmHbiM0aGEjsQuI/edit?usp=sharingg'><u>here</u>.</a>
+The Google Docs Report and Explanation of Visuals can be found <a href='https://docs.google.com/document/d/1lz2R22FZm35XQMvPO5pAfL_5HnsvCmHbiM0aGEjsQuI/edit?usp=sharingg'><u>here</u>.</a>
 
 ### Cosmetics Analysis File Table of Contents
 | File Number | Title | Description |
