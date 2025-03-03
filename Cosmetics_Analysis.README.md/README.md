@@ -4,9 +4,9 @@ This project is from the TripleTen February 2025 Business Intelligence Analyst C
 
 [<img src="https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cover%20Cosmetics%20Analysis.png">](https://github.com/nbrown5071/Cosmetics_Analysis/blob/main/Cosmetics_Analysis.README.md/Cover%20Cosmetics%20Analysis.png)
 
-The Tableau Link can be found <a href='https://public.tableau.com/views/Cosmetics4-2_17409405036550/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><u>here</u>.</a>
+The Tableau Link can be found <a href='https://public.tableau.com/views/CosmeticsAnalysis-2_17410359239270/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><u>here</u>.</a>
 
-The Google Docs Outline can be found <a href='https://docs.google.com/document/d/1hvFoZ9LknT2g1xvRrdV_SPvMN0SX-gJLUCD2980l3NQ/edit?usp=sharing'><u>here</u>.</a>
+The Google Docs Outline can be found <a href='https://docs.google.com/document/d/1lz2R22FZm35XQMvPO5pAfL_5HnsvCmHbiM0aGEjsQuI/edit?usp=sharingg'><u>here</u>.</a>
 
 ### Cosmetics Analysis File Table of Contents
 | File Number | Title | Description |
